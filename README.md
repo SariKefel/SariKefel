@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sari</h1>
 <h3 align="center">A Software developer from Lebanon</h3>
-<img align=" center"src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHUzcTRxazU3ZGR2bWZudDZ2Y2lmbmxpeGdqMnp5dXo2MzVtaHcxOSZlcD12MV9naWZzJmN0PWc/ENY5vJgJPEfG3Ym14H/giphy.gif" width="200px"> 
-
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHUzcTRxazU3ZGR2bWZudDZ2Y2lmbmxpeGdqMnp5dXo2MzVtaHcxOSZlcD12MV9naWZzJmN0PWc/ENY5vJgJPEfG3Ym14H/giphy.gif" width="200px"> 
+</p>
 ##  About Me
 
 A Computer Science student currently studying at **Sunway University** in **Malaysia**. 
