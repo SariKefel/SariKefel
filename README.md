@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxnZTV4Zzhmc29nYW93dGIyaHc5aTd0ajUwanJqdzF1dW80aXNhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif" width="200px" />
 </p>
 
 <h1 align="center">Hi, I'm Sari 👋</h1>
