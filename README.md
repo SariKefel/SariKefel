@@ -9,7 +9,7 @@ A Computer Science student currently studying at **Sunway University** in **Mala
 - Bachelor’s Degree in Computer Science
 
 ### 🌍 Where I’m Based:
-- 📍 Kuala Lumpur, Malaysia (originally from Kenya 🇰🇪)
+- 📍 Kuala Lumpur, Malaysia and Nairobi, Kenya
 - 🌐 Interested in working remotely or collaborating globally
 
 ---
